@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/NarshaServer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Social" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projFruit/projFruit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projFruit/qi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projPsmDangoon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projPsmdan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/psmProjSchool" vcs="Git" />
+  </component>
+</project>
